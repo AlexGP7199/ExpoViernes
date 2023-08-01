@@ -1,0 +1,15 @@
+E:\ITLA\FundamentosProg\Proyectos\Expo\bin\Debug\net7.0\Expo.exe
+E:\ITLA\FundamentosProg\Proyectos\Expo\bin\Debug\net7.0\Expo.deps.json
+E:\ITLA\FundamentosProg\Proyectos\Expo\bin\Debug\net7.0\Expo.runtimeconfig.json
+E:\ITLA\FundamentosProg\Proyectos\Expo\bin\Debug\net7.0\Expo.dll
+E:\ITLA\FundamentosProg\Proyectos\Expo\bin\Debug\net7.0\Expo.pdb
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\Expo.csproj.AssemblyReference.cache
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\Expo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\Expo.AssemblyInfoInputs.cache
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\Expo.AssemblyInfo.cs
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\Expo.csproj.CoreCompileInputs.cache
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\Expo.dll
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\refint\Expo.dll
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\Expo.pdb
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\Expo.genruntimeconfig.cache
+E:\ITLA\FundamentosProg\Proyectos\Expo\obj\Debug\net7.0\ref\Expo.dll
